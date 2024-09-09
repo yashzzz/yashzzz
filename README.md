@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **docker**
 
-- 🌱 I’m currently learning **k8s,jenkins**
+- 🌱 I’m currently learning **k8s,jenkins,aws**
 
 - 💬 Ask me about **docker , ansible**
 
