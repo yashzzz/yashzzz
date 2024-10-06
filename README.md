@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashzzz&label=Profile%20views&color=0e75b6&style=flat" alt="yashzzz" /> </p>
 
-- 🔭 I’m currently working on **java with dsa**
+- 🔭 I’m currently working on **java with ds**
 
 - 🌱 I’m currently learning **k8s,jenkins,aws**
 
